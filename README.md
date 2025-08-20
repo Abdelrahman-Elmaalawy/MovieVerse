@@ -5,7 +5,7 @@ You can search, browse, and view popular movies.
 
 ## 🚀 Live Demo
 <!-- Replace after deploy -->
-https://your-deploy-link.com
+https://movieverse2025.netlify.app/
 
 ## 🚀 Features
 - Search movies
