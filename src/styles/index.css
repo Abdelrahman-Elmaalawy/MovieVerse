@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+button {
+    cursor: pointer;
+}
+/* button:focus {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    opacity: 0.8;
+} */
